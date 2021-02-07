@@ -47,10 +47,10 @@
     ],
     "work":[
       {
-        "company":"Awesome stuff",
-        "title":"Will update... chill out",
-        "years":"Start of time - Present",
-        "description":""
+        "company":"Autonomous drone startup - stealth mode",
+        "title":"Autonomous software engineer",
+        "years":"Jan 2021 - Present",
+        "description":"Localization and sensor fusion."
       }
     ]
   },
@@ -79,6 +79,12 @@
         "category":"Multi-agent path planning algorithm based on Sequential Convex Programming (SCP) that finds optimal collision free trajectories.",
         "image":"empty.jpg",
         "url":"https://drive.google.com/file/d/1KWRMR4BHUVX7SzhAMBPsq_O91ZFqtHBE/view?usp=sharing"
+      },
+      {
+        "title":"Online Collision-free Formation Flight under Dynamic and Static Obstacles",
+        "category":"Online control algorithm based on model predictive control (MPC) that allows for collision-free formation flight of a number of unmanned aerial vehicles (UAVs).",
+        "image":"empty.jpg",
+        "url":"https://drive.google.com/file/d/1dBz67xrz6ZrToz1imwdh2yCRD4IMOmbd/view?usp=sharing"
       }
     ]
   }
