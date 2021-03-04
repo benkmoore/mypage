@@ -16,7 +16,7 @@
       "zip": ""
     },
     "website": "http://www.benmoore.xyz",
-    "resumedownload":"TODO",
+    "resumedownload":"https://docs.google.com/uc?export=download&id=1XYUfjJXA56yRDWAjK50naPTuO4X0i-US",
     "social":[
       {
         "name":"twitter",
@@ -57,16 +57,10 @@
   "portfolio":{
     "projects": [
       {
-        "title":"My resume",
-        "category":"",
-        "image":"empty.jpg",
-        "url":"https://drive.google.com/file/d/1XYUfjJXA56yRDWAjK50naPTuO4X0i-US/view?usp=sharing"
-      },
-      {
         "title":"Analytical Robotics",
         "category":"A multi-robot platform for maneuvering heavyweight cargo in complex dynamic environments.",
         "image":"empty.jpg",
-        "url":""
+        "url":"https://analyticalrobotics.com"
       },
       {
         "title":"Stanford Intelligent Systems Lab: GM-PHD",
@@ -85,6 +79,18 @@
         "category":"Online control algorithm based on model predictive control (MPC) that allows for collision-free formation flight of a number of unmanned aerial vehicles (UAVs).",
         "image":"empty.jpg",
         "url":"https://drive.google.com/file/d/1dBz67xrz6ZrToz1imwdh2yCRD4IMOmbd/view?usp=sharing"
+      }
+    ]
+  },
+  "demos":{
+    "videos": [
+      {
+        "title":"3D Lidar EKF-SLAM",
+        "url":"https://www.youtube.com/watch?v=JcLgcWbRhVs&feature=youtu.be"
+      },
+      {
+        "title":"GM-PHD Filter",
+        "url":"https://youtu.be/HIwck3-vTE0"
       }
     ]
   }
