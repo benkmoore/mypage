@@ -89,7 +89,9 @@
    }
    #contact .section-head p.lead { font: 17px/33px opensans-light, sans-serif; }
 
-
+   /* demos Section
+   ----------------------------------------------------------------------- */
+   #demos {}
 }
 
 /* mobile wide/smaller tablets
@@ -313,6 +315,10 @@
       width: 100%;
       margin-left: 0;
    }
+
+   /* demos Section
+   ----------------------------------------------------------------------- */
+   #demos {}
 
 
    /* footer

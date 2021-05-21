@@ -311,6 +311,18 @@ ul#nav li.current a { color: #fe6928; }
    color: #95A3A3;
 }
 
+/* ------------------------------------------------------------------ */
+/* d. Demos Section
+/* ------------------------------------------------------------------ */
+
+#demos {
+   padding-top: 10px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+
+#demos a, #demos a:visited  { color: #fff; }
+
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
@@ -831,7 +843,7 @@ call-to-action .button {
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #0762f9; }
+#contact a, #contact a:visited  { color: #fff;; }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
@@ -962,7 +974,7 @@ call-to-action .button {
 
 footer {
    padding-top: 48px;
-   margin-bottom: 48px;
+   margin-bottom: 0px;
    color: #303030;
    font-size: 14px;
    text-align: center;
