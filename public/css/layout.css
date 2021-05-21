@@ -311,17 +311,16 @@ ul#nav li.current a { color: #fe6928; }
    color: #95A3A3;
 }
 
-/* ------------------------------------------------------------------ */
-/* d. Demos Section
-/* ------------------------------------------------------------------ */
-
 #demos {
-   padding-top: 10px;
-   padding-bottom: 72px;
+   background:  #0f0f0f;
+   padding-top: 16px;
+   padding-bottom: 66px;
    overflow: hidden;
 }
 
 #demos a, #demos a:visited  { color: #fff; }
+#demos a:hover, #demos a:focus { color: #0762f9; }
+
 
 /*----------------------------------------------*/
 /*	Skill Bars
