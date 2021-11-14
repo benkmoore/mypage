@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Ben Moore",
-    "description":"Hi, I'm an autonomous robotics engineer, software developer and entrepreneur. Building the future",
+    "description":"Hi, I'm a software developer and machine learning engineer. Building the future",
     "image":"ben_profile_pic.jpeg",
     "bio":"Ben was awarded the Fulbright Scholarship to pursue his research in autonomous robotics. He obtained his MS in Aeronautics and Astronautics from Stanford University. There he developed estimation algorithms for autonomous systems with the Stanford Intelligent Systems Lab. His technical background spans; optimal, non-linear and multi-robot control techniques, estimation, and real time artificial intelligence pipelines. Ben has over eight years of experience in the robotics industry developing production level software and algorithms, including multi-robot systems, drone racing, and autonomous driving. While attaining his Bachelors in Mechanical Engineering at University College Dublin, he developed simulation models to validate and test the Attitude Determination and Control System for the first Irish Satellite, EIRSAT-1, in collaboration with the European Space Agency.",
     "contactmessage":"Contact me",
@@ -47,10 +47,11 @@
     ],
     "work":[
       {
-        "company":"Building Universal Autonomy at Oxbotica",
-        "title":"Autonomous software engineer",
-        "years":"April 2021 - Present",
-        "description":"Tracking and prediction team."
+        "company":"Inscribe AI",
+        "title":"Software and machine learning engineer",
+        "years":"June 2021 - Present",
+        "description":"Building a fair and efficient financial services ecosystem.",
+        "url": "https://inscribe.ai/"
       }
     ]
   },
