@@ -1,14 +1,11 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
-import Video from './Video';
+import Video from "./Video";
 
 class Demos extends Component {
   render() {
-
     if (!this.props.data) {
-      return (
-        <div className="video-none" />
-      );
+      return <div className="video-none" />;
     }
 
     return (
@@ -16,13 +13,13 @@ class Demos extends Component {
         <div className="video">
           <h1>Demos</h1>
           <ul className="video-list">
-            {this.props.data.videos.map((video) => (
+            {/* {this.props.data.videos.map((video) => (
               <Video title={video.title} url={video.url}/>
-            ))}
+            ))} */}
           </ul>
         </div>
       </section>
-    )
+    );
   }
 }
 
