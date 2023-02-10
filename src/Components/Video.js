@@ -1,20 +1,12 @@
-import React from 'react';
-import ReactPlayer from "react-player"
-
+import React from "react";
+import ReactPlayer from "react-player";
 
 function Video(props) {
   return (
     <div>
-      {/* <div className="video-title">
-        <h2>{props.title}</h2>
-      </div> */}
-      <div className="video-display">
-        <ReactPlayer
-          url={props.url}
-        />
-      </div>
+      <ReactPlayer url={props.url} width="100%" height="100%" />
     </div>
-  )
+  );
 }
 
 export default Video;
